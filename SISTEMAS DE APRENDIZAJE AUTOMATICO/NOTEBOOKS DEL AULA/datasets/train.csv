@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1d56431 (24-01-2025(previa))
 PassengerId;Survived;Pclass;Sex;Age;SibSp;Parch;Fare;Embarked
 1;0;3;1;22;1;0;725;S
 2;1;1;2;38;1;0;712833;C
@@ -891,6 +894,7 @@ PassengerId;Survived;Pclass;Sex;Age;SibSp;Parch;Fare;Embarked
 889;0;3;2;;1;2;2345;S
 890;1;1;1;26;0;0;30;C
 891;0;3;1;32;0;0;775;Q
+<<<<<<< HEAD
 =======
 PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 <<<<<<< HEAD
@@ -2679,3 +2683,5 @@ PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 890,1,1,1,26,0,0,111369,30,C148,C
 891,0,3,1,32,0,0,370376,775,,Q
 >>>>>>> b28c719 (Update train.csv)
+=======
+>>>>>>> 1d56431 (24-01-2025(previa))
