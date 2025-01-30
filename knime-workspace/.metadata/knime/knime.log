@@ -1,0 +1,61 @@
+2025-01-30 19:20:32,511 : WARN  : Worker-2: Downloading statistics for node recommendations. :  : NodeRecommendationUpdater :  :  : Could not update node recommendations statistics.
+java.io.IOException: Downloaded file doesn't contain node recommendation data.
+	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.checkDownloadedFile(AbstractFileDownloadTripleProvider.java:183)
+	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.update(AbstractFileDownloadTripleProvider.java:162)
+	at org.knime.workbench.workflowcoach.data.CommunityTripleProvider.update(CommunityTripleProvider.java:111)
+	at org.knime.workbench.workflowcoach.prefs.UpdateJob.run(UpdateJob.java:132)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: com.fasterxml.jackson.databind.JsonMappingException: Unexpected end-of-input within/between Object entries
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 189072, column: 21] (through reference chain: org.knime.core.node.NodeFrequencies["frequencies"]->java.util.ArrayList[21007]->org.knime.core.node.NodeTriple["successor"])
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:402)
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:361)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.wrapAndThrow(BeanDeserializerBase.java:1937)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:572)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:440)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1493)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:348)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer._deserializeFromArray(CollectionDeserializer.java:359)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:244)
+	at com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:28)
+	at com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:545)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:570)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:440)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1493)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:348)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4899)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3883)
+	at org.knime.core.node.NodeFrequencies.from(NodeFrequencies.java:160)
+	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.checkDownloadedFile(AbstractFileDownloadTripleProvider.java:181)
+	... 4 more
+Caused by: com.fasterxml.jackson.core.io.JsonEOFException: Unexpected end-of-input within/between Object entries
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 189072, column: 21]
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportInvalidEOF(ParserMinimalBase.java:699)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipColon2(UTF8StreamJsonParser.java:3270)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._skipColon(UTF8StreamJsonParser.java:3185)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextToken(UTF8StreamJsonParser.java:805)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:181)
+	at com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:545)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:570)
+	... 22 more
+2025-01-30 19:20:32,752 : WARN  : Worker-0: Downloading statistics for node recommendations. :  : NodeRecommendationUpdater :  :  : Could not update node recommendations statistics.
+java.io.IOException: Downloaded file doesn't contain node recommendation data.
+	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.checkDownloadedFile(AbstractFileDownloadTripleProvider.java:183)
+	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.update(AbstractFileDownloadTripleProvider.java:162)
+	at org.knime.workbench.workflowcoach.data.CommunityTripleProvider.update(CommunityTripleProvider.java:111)
+	at org.knime.workbench.workflowcoach.prefs.UpdateJob.run(UpdateJob.java:132)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.nio.file.NoSuchFileException: C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\knime-workspace\.metadata\knime\file_download.temp
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source)
+	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.base/java.nio.file.Files.newByteChannel(Unknown Source)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source)
+	at java.base/java.nio.file.Files.newInputStream(Unknown Source)
+	at org.knime.workbench.workflowcoach.data.AbstractFileDownloadTripleProvider.checkDownloadedFile(AbstractFileDownloadTripleProvider.java:180)
+	... 4 more
+2025-01-30 19:22:34,000 : WARN  : comm-pool-thread-1 :  : Node : CSV Reader : 3:1 : Please specify a file
