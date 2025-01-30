@@ -7,7 +7,11 @@
     </config>
     <config key="model">
         <entry key="classColumn" type="xstring" value="class"/>
+<<<<<<< HEAD
         <entry key="k" type="xint" value="4"/>
+=======
+        <entry key="k" type="xint" value="8"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
         <entry key="weightByDistance" type="xboolean" value="false"/>
         <entry key="outputClassProbabilities" type="xboolean" value="false"/>
     </config>
@@ -38,6 +42,10 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<<<<<<< HEAD
         <entry key="file_store_id" type="xstring" value="333dab7a-fa55-477e-a796-27dac113afdf"/>
+=======
+        <entry key="file_store_id" type="xstring" value="24592bcc-8f1d-4219-9557-b6d930e76b28"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
     </config>
 </config>

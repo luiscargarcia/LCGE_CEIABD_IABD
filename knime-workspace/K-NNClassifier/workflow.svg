@@ -196,7 +196,11 @@
                 <path d="M1209 345 L1263 345 L1263 356 L1209 356 L1209 345 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath61">
+<<<<<<< HEAD
                 <path d="M-1 -1 L3287 -1 L3287 1446 L-1 1446 L-1 -1 Z"/>
+=======
+                <path d="M-1 -1 L3285 -1 L3285 1445 L-1 1445 L-1 -1 Z"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
             </clipPath>
         </defs>
         <g fill="white" stroke-miterlimit="0" stroke-width="0"
@@ -1218,6 +1222,7 @@ rkJggg==" xlink:actuate="onLoad"/>
            stroke-width="2" font-family="&apos;Segoe UI&apos;"
            stroke-linecap="butt" stroke="rgb(150,150,150)">
             <path fill="none"
+<<<<<<< HEAD
                   d="M785 203 C787 203 791 203 793 203 C829 203 879 203 915 203 C917 203 921 203 923 203"
                   fill-rule="evenodd" clip-path="url(#clipPath61)"/>
             <path fill="none"
@@ -1255,6 +1260,45 @@ rkJggg==" xlink:actuate="onLoad"/>
                   clip-path="url(#clipPath61)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M770 290 C772 290 776 290 778 290 C849 290 940 334 1011 334 C1013 334 1017 334 1019 334"
+=======
+                  d="M1071 345 C1073 345 1077 345 1079 345 C1105 345 1141 340 1167 340 C1169 340 1173 340 1175 340"
+                  fill-rule="evenodd" clip-path="url(#clipPath61)"/>
+            <path fill="none"
+                  d="M976 195 C978 195 982 195 984 195 C1019 195 1067 190 1102 190 C1104 190 1108 190 1110 190"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M771 290 C773 290 777 290 779 290 C850 290 941 335 1012 335 C1014 335 1018 335 1020 335"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M456 205 C458 205 462 205 464 205 C505 205 501 320 542 320 C544 320 548 320 550 320"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M786 185 C788 185 792 185 794 185 C830 185 881 185 917 185 C919 185 923 185 925 185"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M786 204 C788 204 792 204 794 204 C830 204 881 204 917 204 C919 204 923 204 925 204"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M456 205 C458 205 462 205 464 205 C487 205 519 205 542 205 C544 205 548 205 550 205"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M871 365 C873 365 877 365 879 365 C919 365 972 354 1012 354 C1014 354 1018 354 1020 354"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M296 205 C298 205 302 205 304 205 C331 205 370 205 397 205 C399 205 403 205 405 205"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M601 329 C603 329 607 329 609 329 C671 329 750 374 812 374 C814 374 818 374 820 374"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M601 195 C603 195 607 195 609 195 C644 195 692 195 727 195 C729 195 733 195 735 195"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M771 309 C773 309 777 309 779 309 C795 309 796 355 812 355 C814 355 818 355 820 355"
+                  clip-path="url(#clipPath61)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M601 310 C603 310 607 310 609 310 C640 310 681 300 712 300 C714 300 718 300 720 300"
+>>>>>>> 103bc95 (30-01-2025 21:40)
                   clip-path="url(#clipPath61)" fill-rule="evenodd"/>
         </g>
     </g>

@@ -14,13 +14,21 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9833333333333333"/>
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9666666666666667"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9833333333333333"/>
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9666666666666667"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
         </config>
@@ -39,13 +47,21 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.016666666666666666"/>
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.03333333333333333"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.016666666666666666"/>
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.03333333333333333"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
         </config>
@@ -64,13 +80,21 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9748953974895397"/>
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9496644295302011"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9748953974895397"/>
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9496644295302011"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
         </config>
@@ -89,13 +113,21 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="59"/>
+=======
+                    <entry key="IntCell" type="xint" value="58"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="59"/>
+=======
+                    <entry key="IntCell" type="xint" value="58"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
         </config>
@@ -114,13 +146,21 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="1"/>
+=======
+                    <entry key="IntCell" type="xint" value="2"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="1"/>
+=======
+                    <entry key="IntCell" type="xint" value="2"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
                 </config>
             </config>
         </config>

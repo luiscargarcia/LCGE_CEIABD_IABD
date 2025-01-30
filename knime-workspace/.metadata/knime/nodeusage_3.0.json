@@ -4,6 +4,7 @@
     "nodestats": {
         "nodes": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
             {
                 "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
@@ -17,12 +18,15 @@
                 "successornodename": "n/a"
             }
 >>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
         ],
         "metaNodes": {
         },
         "wrappedNodes": {
         },
         "createdVia": {
+<<<<<<< HEAD
 <<<<<<< HEAD
         }
     },
@@ -44,23 +48,29 @@
     "properlyShutDown": true
 =======
             "WEB_UI": 1
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
         }
     },
-    "uptime": 133331,
-    "workflowsOpened": 2,
-    "remoteWorkflowsOpened": 1,
-    "workflowsCreated": 1,
-    "remoteWorkflowsCreated": 1,
+    "uptime": 1307011,
+    "workflowsOpened": 0,
+    "remoteWorkflowsOpened": 0,
+    "workflowsCreated": 0,
+    "remoteWorkflowsCreated": 0,
     "columnarStorageWorkflowsOpened": 0,
-    "workflowsImported": 1,
+    "workflowsImported": 0,
     "workflowsExported": 0,
-    "webUIPerspectiveSwitches": 1,
-    "javaUIPerspectiveSwitches": 1,
-    "lastUsedPerspective": "none",
-    "launches": 1,
+    "webUIPerspectiveSwitches": 0,
+    "javaUIPerspectiveSwitches": 0,
+    "lastUsedPerspective": "none (classic)",
+    "launches": 6,
     "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart": 133331,
+    "timeSinceLastStart": 1091518,
     "crashes": 0,
+<<<<<<< HEAD
     "properlyShutDown": false
 >>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+    "properlyShutDown": true
+>>>>>>> 103bc95 (30-01-2025 21:40)
 }
