@@ -1,1 +1,7 @@
+C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\comprar_alquilar.csv
+C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\pima-indians-diabetes.csv
+C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\usuarios_win_mac_lin.csv
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\Weather.csv
+C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\bostonDataset.csv
+http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\SISTEMAS DE APRENDIZAJE AUTOMATICO\NOTEBOOKS DEL AULA\datasets\usuarios_win_mac_lin.csv
