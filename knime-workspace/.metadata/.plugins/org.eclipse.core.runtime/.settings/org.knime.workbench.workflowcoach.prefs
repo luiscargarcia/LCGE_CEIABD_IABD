@@ -1,4 +1,7 @@
 auto_update_schedule=1
 community_node_triple_provider=true
 eclipse.preferences.version=1
+<<<<<<< HEAD
 workspace_node_triple_provider=true
+=======
+>>>>>>> 67236fe (30-01-2025 - 19:20)

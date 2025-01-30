@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 themeid=org.knime.product.theme.knime
+=======
+themeid=org.knime.ui.java.theme
+>>>>>>> 67236fe (30-01-2025 - 19:20)

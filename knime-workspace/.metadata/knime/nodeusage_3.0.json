@@ -3,12 +3,27 @@
     "created": "2025-01-30 18:20",
     "nodestats": {
         "nodes": [
+<<<<<<< HEAD
+=======
+            {
+                "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
+                "nodename": "CSV Reader",
+                "nrexecs": 0,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 1,
+                "nrsettingsChanged": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            }
+>>>>>>> 67236fe (30-01-2025 - 19:20)
         ],
         "metaNodes": {
         },
         "wrappedNodes": {
         },
         "createdVia": {
+<<<<<<< HEAD
         }
     },
     "uptime": 1339961,
@@ -27,4 +42,25 @@
     "timeSinceLastStart": 1537663,
     "crashes": 0,
     "properlyShutDown": true
+=======
+            "WEB_UI": 1
+        }
+    },
+    "uptime": 133331,
+    "workflowsOpened": 2,
+    "remoteWorkflowsOpened": 1,
+    "workflowsCreated": 1,
+    "remoteWorkflowsCreated": 1,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 1,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 1,
+    "javaUIPerspectiveSwitches": 1,
+    "lastUsedPerspective": "none",
+    "launches": 1,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 133331,
+    "crashes": 0,
+    "properlyShutDown": false
+>>>>>>> 67236fe (30-01-2025 - 19:20)
 }
