@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 =======
 >>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+>>>>>>> 588a316 (04-02-2025)
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\comprar_alquilar.csv
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\pima-indians-diabetes.csv
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\usuarios_win_mac_lin.csv

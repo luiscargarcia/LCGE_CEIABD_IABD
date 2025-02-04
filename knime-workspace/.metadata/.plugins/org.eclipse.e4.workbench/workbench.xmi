@@ -114,10 +114,9 @@
 =======
           <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
           <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_3Vefud82Ee-J6eaSFNMgaQ" selectedElement="_3Vefut82Ee-J6eaSFNMgaQ" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_3Vefud82Ee-J6eaSFNMgaQ" selectedElement="_3Vefwt82Ee-J6eaSFNMgaQ" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_3Vefut82Ee-J6eaSFNMgaQ" containerData="3000" selectedElement="_3Vefu982Ee-J6eaSFNMgaQ">
               <children xsi:type="basic:PartStack" xmi:id="_3Vefu982Ee-J6eaSFNMgaQ" elementId="org.knime.workbench.explorer.viewMStack" containerData="3000" selectedElement="_3VefvN82Ee-J6eaSFNMgaQ">
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_3VefvN82Ee-J6eaSFNMgaQ" elementId="org.knime.workbench.explorer.view" ref="_3VefsN82Ee-J6eaSFNMgaQ" closeable="true">
 >>>>>>> 103bc95 (30-01-2025 21:40)
                   <tags>View</tags>
@@ -426,10 +425,23 @@
       <children xsi:type="basic:PartStack" xmi:id="_j100Et83Ee-J6eaSFNMgaQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_j100E983Ee-J6eaSFNMgaQ">
 =======
     <sharedElements xsi:type="advanced:Area" xmi:id="_3N87YN82Ee-J6eaSFNMgaQ" elementId="org.eclipse.ui.editorss" selectedElement="_3N87Yd82Ee-J6eaSFNMgaQ">
+<<<<<<< HEAD
       <children xsi:type="basic:PartStack" xmi:id="_3N87Yd82Ee-J6eaSFNMgaQ" elementId="org.eclipse.e4.primaryDataStack">
 >>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+      <children xsi:type="basic:PartStack" xmi:id="_3N87Yd82Ee-J6eaSFNMgaQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_zjLIIN_5Ee-3Wuk3Ex9KLg">
+>>>>>>> 588a316 (04-02-2025)
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_zjLIIN_5Ee-3Wuk3Ex9KLg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="3: K-NNClassifier" iconURI="platform:/plugin/org.knime.workbench.editor/icons/knime.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; partName=&quot;3: K-NNClassifier&quot; title=&quot;3: K-NNClassifier&quot; tooltip=&quot;3: K-NNClassifier&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;knime://LOCAL/K-NNClassifier/workflow.knime&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.knime.workbench.editor.WorkflowEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_3VefsN82Ee-J6eaSFNMgaQ" elementId="org.knime.workbench.explorer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="KNIME Explorer" iconURI="platform:/plugin/org.knime.workbench.explorer.view/icons/knime_explorer.png" tooltip="" closeable="true">
@@ -439,7 +451,6 @@
       <tags>View</tags>
       <tags>categoryTag:KNIME Views</tags>
       <tags>activeOnClose</tags>
-      <tags>active</tags>
       <menus xmi:id="_3Xc1oN82Ee-J6eaSFNMgaQ" elementId="org.knime.workbench.explorer.view">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
