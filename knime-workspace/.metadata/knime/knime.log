@@ -642,3 +642,7 @@ org.knime.core.node.InvalidSettingsException: The specified file ../../datasets/
 2025-01-30 21:20:45,241 : WARN  : KNIME-Worker-9-Number to String 3:8 :  : Node : Scorer (JavaScript) : 3:17 : The columns selected don't contain any values.
 2025-01-30 21:20:45,245 : WARN  : KNIME-Worker-8-Partitioning 3:4 :  : Node : Scorer (JavaScript) : 3:17 : The columns selected don't contain any values.
 2025-01-30 21:20:45,248 : WARN  : KNIME-Worker-19-Naive Bayes Learner 3:2 :  : Node : Naive Bayes Learner : 3:2 : The following attributes are skipped: ingresos/Too many values, ahorros/Too many values, financiar/Too many values
+2025-01-31 18:36:37,931 : WARN  : main :  : Node : Scorer (JavaScript) : 3:6 : The columns selected don't contain any values.
+2025-01-31 18:36:37,938 : WARN  : main :  : Node : Scorer (JavaScript) : 3:11 : The columns selected don't contain any values.
+2025-01-31 18:36:39,474 : WARN  : main :  : Node : Scorer (JavaScript) : 3:6 : The columns selected don't contain any values.
+2025-01-31 18:36:39,474 : WARN  : main :  : Node : Scorer (JavaScript) : 3:11 : The columns selected don't contain any values.
