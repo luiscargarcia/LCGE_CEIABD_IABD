@@ -27,7 +27,7 @@
                     <entry key="location_present" type="xboolean" value="true"/>
                     <entry key="file_system_type" type="xstring" value="CUSTOM_URL"/>
                     <entry key="file_system_specifier" type="xstring" value="1000"/>
-                    <entry key="path" type="xstring" value="http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
+                    <entry key="path" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -251,7 +251,7 @@
                     <entry key="force_type" type="xboolean" value="false"/>
                 </config>
             </config>
-            <entry key="source_group_id" type="xstring" value="http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
+            <entry key="source_group_id" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
             <config key="config_id">
                 <config key="multi_table_read">
                     <config key="settings">
@@ -346,6 +346,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="49b478fd-81b2-46c6-9082-ed134e770591"/>
+        <entry key="file_store_id" type="xstring" value="d3d84e75-4a7a-49c1-856e-198fe88ddaa2"/>
     </config>
 </config>
