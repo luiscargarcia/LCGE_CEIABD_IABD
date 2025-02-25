@@ -29,6 +29,7 @@
                     <entry key="file_system_specifier" type="xstring" value="1000"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="path" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
 =======
                     <entry key="path" type="xstring" value="http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
@@ -36,6 +37,9 @@
 =======
                     <entry key="path" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="path" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
+>>>>>>> origin/main
                 </config>
                 <config key="filter_mode_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -261,6 +265,7 @@
             </config>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <entry key="source_group_id" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
 =======
             <entry key="source_group_id" type="xstring" value="http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
@@ -268,6 +273,9 @@
 =======
             <entry key="source_group_id" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+            <entry key="source_group_id" type="xstring" value="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"/>
+>>>>>>> origin/main
             <config key="config_id">
                 <config key="multi_table_read">
                     <config key="settings">
@@ -364,6 +372,7 @@
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="file_store_id" type="xstring" value="d3d84e75-4a7a-49c1-856e-198fe88ddaa2"/>
 =======
         <entry key="file_store_id" type="xstring" value="49b478fd-81b2-46c6-9082-ed134e770591"/>
@@ -371,5 +380,8 @@
 =======
         <entry key="file_store_id" type="xstring" value="d3d84e75-4a7a-49c1-856e-198fe88ddaa2"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+        <entry key="file_store_id" type="xstring" value="d3d84e75-4a7a-49c1-856e-198fe88ddaa2"/>
+>>>>>>> origin/main
     </config>
 </config>

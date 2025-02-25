@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 # 100 ejercicios de numpy
 
 Esta es una colección de ejercicios que han sido recopilados de la lista de correo de numpy, 
@@ -44,6 +47,7 @@ Archivo generado automáticamente. Consulta la documentación para actualizar pr
 #### 16. ¿Cómo agregar un borde (relleno con ceros) alrededor de una matriz existente? (★☆☆)
 `hint: np.pad`
 #### 17. ¿Cuál es el resultado de la siguiente expresión? (★☆☆)
+<<<<<<< HEAD
 =======
 =======
 # 100 ejercicios de numpy
@@ -96,6 +100,8 @@ Archivo generado automáticamente. Consulta la documentación para actualizar pr
 =======
 #### 17. ¿Cuál es el resultado de la siguiente expresión? (★☆☆)
 >>>>>>> 847158e (06-02-2025_19:20)
+=======
+>>>>>>> origin/main
 ```python
 0 * np.nan
 np.nan == np.nan
@@ -107,6 +113,9 @@ np.nan in set([np.nan])
 `hint: NaN = not a number, inf = infinity`
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 #### 18. Crear una matriz 5x5 con valores 1,2,3,4 justo debajo de la diagonal (★☆☆)
 `hint: np.diag`
 #### 19. Crear una matriz 8x8 y llenarla con un patrón de tablero de ajedrez (★☆☆)
@@ -126,6 +135,7 @@ np.nan in set([np.nan])
 #### 26. ¿Cuál es la salida del siguiente script? (★☆☆)
 ```python
 # Autor: Jake VanderPlas
+<<<<<<< HEAD
 =======
 #### 18. Create a 5x5 matrix with values 1,2,3,4 just below the diagonal (★☆☆)
 =======
@@ -154,12 +164,15 @@ np.nan in set([np.nan])
 =======
 # Autor: Jake VanderPlas
 >>>>>>> 847158e (06-02-2025_19:20)
+=======
+>>>>>>> origin/main
 
 print(sum(range(5),-1))
 from numpy import *
 print(sum(range(5),-1))
 ```
 `hint: np.sum`
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 #### 27. Considerar un vector entero Z, ¿cuál de estas expresiones son legales? (★☆☆)
@@ -169,6 +182,9 @@ print(sum(range(5),-1))
 =======
 #### 27. Considerar un vector entero Z, ¿cuál de estas expresiones son legales? (★☆☆)
 >>>>>>> 847158e (06-02-2025_19:20)
+=======
+#### 27. Considerar un vector entero Z, ¿cuál de estas expresiones son legales? (★☆☆)
+>>>>>>> origin/main
 ```python
 Z**Z
 2 << Z >> 2
@@ -177,6 +193,7 @@ Z <- Z
 Z/1/1
 Z<Z>Z
 ```
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 `No se proporcionan pistas...`
@@ -189,6 +206,10 @@ Z<Z>Z
 `No se proporcionan pistas...`
 #### 28. ¿Cuáles son los resultados de las siguientes expresiones? (★☆☆)
 >>>>>>> 847158e (06-02-2025_19:20)
+=======
+`No se proporcionan pistas...`
+#### 28. ¿Cuáles son los resultados de las siguientes expresiones? (★☆☆)
+>>>>>>> origin/main
 ```python
 np.array(0) / np.array(0)
 np.array(0) // np.array(0)
@@ -196,6 +217,9 @@ np.array([np.nan]).astype(int).astype(float)
 ```
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 `No se proporcionan pistas...`
 #### 29. ¿Cómo redondear un array de flotantes alejándose de cero? (★☆☆)
 `hint: np.uniform, np.copysign, np.ceil, np.abs, np.where`
@@ -251,6 +275,7 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 #### 53. ¿Cómo convertir un array de flotantes (32 bits) en un entero (32 bits) en su lugar?
 `hint: view and [:] =`
 #### 54. ¿Cómo leer el siguiente archivo? (★★☆)
+<<<<<<< HEAD
 =======
 `No hints provided...`
 #### 29. How to round away from zero a float array ? (★☆☆)
@@ -316,6 +341,8 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 =======
 #### 54. ¿Cómo leer el siguiente archivo? (★★☆)
 >>>>>>> 847158e (06-02-2025_19:20)
+=======
+>>>>>>> origin/main
 ```
 1, 2, 3, 4, 5
 6,  ,  , 7, 8
@@ -324,6 +351,9 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 `hint: np.genfromtxt`
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
 #### 55. ¿Cuál es el equivalente de enumerate para arrays de numpy? (★★☆)
 `hint: np.ndenumerate, np.ndindex`
 #### 56. Generar un array genérico 2D similar a una Gaussiana (★★☆)
@@ -415,6 +445,7 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 #### 99. Dado un entero n y un array 2D X, seleccionar de X las filas que pueden interpretarse como extracciones de una distribución multinomial con n grados, es decir, las filas que solo contienen enteros y que suman n. (★★★)
 `hint: np.logical_and.reduce, np.mod`
 #### 100. Calcular intervalos de confianza del 95% bootstrap para la media de un array 1D X (es decir, re-muestrear los elementos de un array con reemplazo N veces, calcular la media de cada muestra y luego calcular percentiles sobre las medias). (★★★)
+<<<<<<< HEAD
 =======
 #### 55. What is the equivalent of enumerate for numpy arrays? (★★☆)
 =======
@@ -515,4 +546,6 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 =======
 #### 100. Calcular intervalos de confianza del 95% bootstrap para la media de un array 1D X (es decir, re-muestrear los elementos de un array con reemplazo N veces, calcular la media de cada muestra y luego calcular percentiles sobre las medias). (★★★)
 >>>>>>> 847158e (06-02-2025_19:20)
+=======
+>>>>>>> origin/main
 `hint: np.percentile`

@@ -5,6 +5,7 @@
         "nodes": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
             {
                 "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
@@ -20,6 +21,8 @@
 >>>>>>> 67236fe (30-01-2025 - 19:20)
 =======
 >>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> origin/main
         ],
         "metaNodes": {
         },
@@ -28,6 +31,9 @@
         "createdVia": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
         }
     },
     "uptime": 1339961,
@@ -46,6 +52,7 @@
     "timeSinceLastStart": 1537663,
     "crashes": 0,
     "properlyShutDown": true
+<<<<<<< HEAD
 =======
             "WEB_UI": 1
 =======
@@ -73,4 +80,6 @@
 =======
     "properlyShutDown": true
 >>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> origin/main
 }

@@ -198,6 +198,7 @@
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath61">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <path d="M-1 -1 L3287 -1 L3287 1446 L-1 1446 L-1 -1 Z"/>
 =======
                 <path d="M-1 -1 L3285 -1 L3285 1445 L-1 1445 L-1 -1 Z"/>
@@ -205,6 +206,9 @@
 =======
                 <path d="M-1 -1 L3287 -1 L3287 1446 L-1 1446 L-1 -1 Z"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                <path d="M-1 -1 L3287 -1 L3287 1446 L-1 1446 L-1 -1 Z"/>
+>>>>>>> origin/main
             </clipPath>
         </defs>
         <g fill="white" stroke-miterlimit="0" stroke-width="0"
@@ -1228,6 +1232,9 @@ rkJggg==" xlink:actuate="onLoad"/>
             <path fill="none"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
                   d="M785 203 C787 203 791 203 793 203 C829 203 879 203 915 203 C917 203 921 203 923 203"
                   fill-rule="evenodd" clip-path="url(#clipPath61)"/>
             <path fill="none"
@@ -1265,6 +1272,7 @@ rkJggg==" xlink:actuate="onLoad"/>
                   clip-path="url(#clipPath61)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M770 290 C772 290 776 290 778 290 C849 290 940 334 1011 334 C1013 334 1017 334 1019 334"
+<<<<<<< HEAD
 =======
                   d="M1071 345 C1073 345 1077 345 1079 345 C1105 345 1141 340 1167 340 C1169 340 1173 340 1175 340"
 =======
@@ -1311,6 +1319,8 @@ rkJggg==" xlink:actuate="onLoad"/>
 =======
                   d="M770 290 C772 290 776 290 778 290 C849 290 940 334 1011 334 C1013 334 1017 334 1019 334"
 >>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
                   clip-path="url(#clipPath61)" fill-rule="evenodd"/>
         </g>
     </g>

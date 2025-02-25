@@ -5,8 +5,11 @@
         <config key="store_0_0">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
             <entry key="array-size" type="xint" value="22"/>
             <entry key="0" type="xstring" value="Row0"/>
             <entry key="1" type="xstring" value="Row6"/>
@@ -30,6 +33,7 @@
             <entry key="19" type="xstring" value="Row45"/>
             <entry key="20" type="xstring" value="Row46"/>
             <entry key="21" type="xstring" value="Row47"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
             <entry key="array-size" type="xint" value="20"/>
@@ -56,6 +60,8 @@
 >>>>>>> 103bc95 (30-01-2025 21:40)
 =======
 >>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
         </config>
         <config key="store_0_1">
             <entry key="array-size" type="xint" value="0"/>
@@ -69,8 +75,11 @@
         <config key="store_1_1">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
             <entry key="array-size" type="xint" value="17"/>
             <entry key="0" type="xstring" value="Row49"/>
             <entry key="1" type="xstring" value="Row50"/>
@@ -79,6 +88,9 @@
             <entry key="4" type="xstring" value="Row54"/>
             <entry key="5" type="xstring" value="Row55"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
             <entry key="6" type="xstring" value="Row59"/>
             <entry key="7" type="xstring" value="Row65"/>
             <entry key="8" type="xstring" value="Row67"/>
@@ -94,6 +106,7 @@
         <config key="store_1_2">
             <entry key="array-size" type="xint" value="1"/>
             <entry key="0" type="xstring" value="Row82"/>
+<<<<<<< HEAD
 =======
             <entry key="array-size" type="xint" value="22"/>
             <entry key="0" type="xstring" value="Row50"/>
@@ -126,6 +139,8 @@
             <entry key="array-size" type="xint" value="1"/>
             <entry key="0" type="xstring" value="Row82"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
         </config>
         <config key="store_2_0">
             <entry key="array-size" type="xint" value="0"/>
@@ -136,6 +151,9 @@
         <config key="store_2_2">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
             <entry key="array-size" type="xint" value="20"/>
             <entry key="0" type="xstring" value="Row100"/>
             <entry key="1" type="xstring" value="Row101"/>
@@ -157,6 +175,7 @@
             <entry key="17" type="xstring" value="Row144"/>
             <entry key="18" type="xstring" value="Row145"/>
             <entry key="19" type="xstring" value="Row146"/>
+<<<<<<< HEAD
 =======
             <entry key="array-size" type="xint" value="16"/>
             <entry key="0" type="xstring" value="Row101"/>
@@ -199,6 +218,8 @@
             <entry key="18" type="xstring" value="Row145"/>
             <entry key="19" type="xstring" value="Row146"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
         </config>
     </config>
     <entry key="warningMessage" type="xstring" value=""/>

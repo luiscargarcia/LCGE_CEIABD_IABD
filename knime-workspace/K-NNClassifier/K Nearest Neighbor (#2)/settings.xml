@@ -9,6 +9,7 @@
         <entry key="classColumn" type="xstring" value="class"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="k" type="xint" value="4"/>
 =======
         <entry key="k" type="xint" value="8"/>
@@ -16,6 +17,9 @@
 =======
         <entry key="k" type="xint" value="4"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+        <entry key="k" type="xint" value="4"/>
+>>>>>>> origin/main
         <entry key="weightByDistance" type="xboolean" value="false"/>
         <entry key="outputClassProbabilities" type="xboolean" value="false"/>
     </config>
@@ -48,6 +52,7 @@
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="file_store_id" type="xstring" value="333dab7a-fa55-477e-a796-27dac113afdf"/>
 =======
         <entry key="file_store_id" type="xstring" value="24592bcc-8f1d-4219-9557-b6d930e76b28"/>
@@ -55,5 +60,8 @@
 =======
         <entry key="file_store_id" type="xstring" value="333dab7a-fa55-477e-a796-27dac113afdf"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+        <entry key="file_store_id" type="xstring" value="333dab7a-fa55-477e-a796-27dac113afdf"/>
+>>>>>>> origin/main
     </config>
 </config>

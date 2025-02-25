@@ -2,11 +2,15 @@ eclipse.preferences.version=1
 knime.askedToSendStatistics=true
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 knime.master_key.saved=false
 =======
 >>>>>>> 67236fe (30-01-2025 - 19:20)
 =======
 knime.master_key.saved=false
 >>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+knime.master_key.saved=false
+>>>>>>> origin/main
 knime.sendAnonymousStatistics=true
 knime.workspace.version=20190627

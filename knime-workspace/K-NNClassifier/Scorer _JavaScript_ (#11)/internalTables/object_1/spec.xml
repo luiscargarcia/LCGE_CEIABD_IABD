@@ -16,6 +16,7 @@
                 <config key="org.knime.core.data.def.IntCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="17"/>
 =======
                     <entry key="IntCell" type="xint" value="16"/>
@@ -23,6 +24,9 @@
 =======
                     <entry key="IntCell" type="xint" value="17"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="17"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">
@@ -55,6 +59,7 @@
                 <config key="org.knime.core.data.def.IntCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="1"/>
 =======
                     <entry key="IntCell" type="xint" value="2"/>
@@ -62,6 +67,9 @@
 =======
                     <entry key="IntCell" type="xint" value="1"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="1"/>
+>>>>>>> origin/main
                 </config>
             </config>
         </config>
@@ -82,6 +90,7 @@
                 <config key="org.knime.core.data.def.IntCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="38"/>
 =======
                     <entry key="IntCell" type="xint" value="36"/>
@@ -89,6 +98,9 @@
 =======
                     <entry key="IntCell" type="xint" value="38"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="38"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">
@@ -121,6 +133,7 @@
                 <config key="org.knime.core.data.def.IntCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="1"/>
 =======
                     <entry key="IntCell" type="xint" value="2"/>
@@ -128,6 +141,9 @@
 =======
                     <entry key="IntCell" type="xint" value="1"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="1"/>
+>>>>>>> origin/main
                 </config>
             </config>
         </config>
@@ -148,6 +164,7 @@
                 <config key="org.knime.core.data.def.DoubleCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9444444444444444"/>
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9166666666666666"/>
@@ -155,6 +172,9 @@
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9444444444444444"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9444444444444444"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">
@@ -181,6 +201,7 @@
                 <config key="org.knime.core.data.def.DoubleCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9523809523809523"/>
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.8888888888888888"/>
@@ -188,6 +209,9 @@
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9523809523809523"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9523809523809523"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">
@@ -214,6 +238,7 @@
                 <config key="org.knime.core.data.def.DoubleCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9444444444444444"/>
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9166666666666666"/>
@@ -221,6 +246,9 @@
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9444444444444444"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9444444444444444"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">
@@ -247,6 +275,7 @@
                 <config key="org.knime.core.data.def.DoubleCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.975"/>
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9545454545454546"/>
@@ -254,6 +283,9 @@
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.975"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.975"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">
@@ -280,6 +312,7 @@
                 <config key="org.knime.core.data.def.DoubleCell">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     <entry key="DoubleCell" type="xdouble" value="0.9714285714285714"/>
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9411764705882353"/>
@@ -287,6 +320,9 @@
 =======
                     <entry key="DoubleCell" type="xdouble" value="0.9714285714285714"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="DoubleCell" type="xdouble" value="0.9714285714285714"/>
+>>>>>>> origin/main
                 </config>
             </config>
             <config key="upper_bound">

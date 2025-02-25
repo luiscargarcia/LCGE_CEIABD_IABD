@@ -10,6 +10,7 @@
         <entry key="lastEdited-by" type="xstring" value="IADB"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="lastEdited-when" type="xstring" value="2025-01-31 18:59:39 +0100"/>
 =======
         <entry key="lastEdited-when" type="xstring" value="2025-01-30 21:15:47 +0100"/>
@@ -17,6 +18,9 @@
 =======
         <entry key="lastEdited-when" type="xstring" value="2025-01-31 18:59:39 +0100"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+        <entry key="lastEdited-when" type="xstring" value="2025-01-31 18:59:39 +0100"/>
+>>>>>>> origin/main
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -303,6 +307,7 @@
         <entry key="workflow.editor.gridY" type="xint" value="20"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="workflow.editor.zoomLevel" type="xdouble" value="0.9"/>
 =======
         <entry key="workflow.editor.zoomLevel" type="xdouble" value="1.0"/>
@@ -310,6 +315,9 @@
 =======
         <entry key="workflow.editor.zoomLevel" type="xdouble" value="0.9"/>
 >>>>>>> 588a316 (04-02-2025)
+=======
+        <entry key="workflow.editor.zoomLevel" type="xdouble" value="0.9"/>
+>>>>>>> origin/main
         <entry key="workflow.editor.curvedConnections" type="xboolean" value="true"/>
         <entry key="workflow.editor.connectionWidth" type="xint" value="2"/>
     </config>

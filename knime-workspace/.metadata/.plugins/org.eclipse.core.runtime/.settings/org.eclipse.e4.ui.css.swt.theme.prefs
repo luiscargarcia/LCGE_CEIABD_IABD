@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 themeid=org.knime.product.theme.knime
 =======
 themeid=org.knime.ui.java.theme
@@ -8,3 +9,6 @@ themeid=org.knime.ui.java.theme
 =======
 themeid=org.knime.product.theme.knime
 >>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+themeid=org.knime.product.theme.knime
+>>>>>>> origin/main
