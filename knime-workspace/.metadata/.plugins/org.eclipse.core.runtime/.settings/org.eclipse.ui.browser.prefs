@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="%browserInternetExplorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe" name\="Microsoft Edge"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:/C\:/Users/IADB/AppData/Local/Temp/intro11556752711415092513.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro5348068061989762818.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro15106615087623854330.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro11170581577533353795.html|*|
+<<<<<<< HEAD
+=======
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:/C\:/Users/IADB/AppData/Local/Temp/intro11170581577533353795.html|*|
+>>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="%browserInternetExplorer"/>\r\n<external location\="C\:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe" name\="Microsoft Edge"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+<<<<<<< HEAD
+internalWebBrowserHistory=file\:/C\:/Users/IADB/AppData/Local/Temp/intro5348068061989762818.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro15106615087623854330.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro11170581577533353795.html|*|
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+internalWebBrowserHistory=file\:/C\:/Users/IADB/AppData/Local/Temp/intro11556752711415092513.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro5348068061989762818.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro15106615087623854330.html|*|file\:/C\:/Users/IADB/AppData/Local/Temp/intro11170581577533353795.html|*|
+>>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main

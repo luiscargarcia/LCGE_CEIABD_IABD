@@ -1,0 +1,85 @@
+{
+    "version": "5.4.0.v202411251357",
+    "created": "2025-01-30 18:20",
+    "nodestats": {
+        "nodes": [
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+            {
+                "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory",
+                "nodename": "CSV Reader",
+                "nrexecs": 0,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 1,
+                "nrsettingsChanged": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            }
+>>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> origin/main
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        },
+        "createdVia": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
+        }
+    },
+    "uptime": 1339961,
+    "workflowsOpened": 0,
+    "remoteWorkflowsOpened": 0,
+    "workflowsCreated": 0,
+    "remoteWorkflowsCreated": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 0,
+    "javaUIPerspectiveSwitches": 0,
+    "lastUsedPerspective": "none (classic)",
+    "launches": 7,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 1537663,
+    "crashes": 0,
+    "properlyShutDown": true
+<<<<<<< HEAD
+=======
+            "WEB_UI": 1
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
+        }
+    },
+    "uptime": 1339961,
+    "workflowsOpened": 0,
+    "remoteWorkflowsOpened": 0,
+    "workflowsCreated": 0,
+    "remoteWorkflowsCreated": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 0,
+    "javaUIPerspectiveSwitches": 0,
+    "lastUsedPerspective": "none (classic)",
+    "launches": 7,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 1537663,
+    "crashes": 0,
+<<<<<<< HEAD
+    "properlyShutDown": false
+>>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+    "properlyShutDown": true
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> origin/main
+}
