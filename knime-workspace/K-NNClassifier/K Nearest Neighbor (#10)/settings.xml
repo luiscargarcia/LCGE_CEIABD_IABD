@@ -38,6 +38,22 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<<<<<<< HEAD
         <entry key="file_store_id" type="xstring" value="6ee54b37-27af-4aab-9277-c8d4b0fef44c"/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <entry key="file_store_id" type="xstring" value="6ee54b37-27af-4aab-9277-c8d4b0fef44c"/>
+=======
+        <entry key="file_store_id" type="xstring" value="7f017653-bf87-478d-9197-5ee3f249de11"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+        <entry key="file_store_id" type="xstring" value="6ee54b37-27af-4aab-9277-c8d4b0fef44c"/>
+>>>>>>> 588a316 (04-02-2025)
+=======
+        <entry key="file_store_id" type="xstring" value="6ee54b37-27af-4aab-9277-c8d4b0fef44c"/>
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
     </config>
 </config>

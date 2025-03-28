@@ -20,7 +20,23 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="22"/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                    <entry key="IntCell" type="xint" value="22"/>
+=======
+                    <entry key="IntCell" type="xint" value="20"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+                    <entry key="IntCell" type="xint" value="22"/>
+>>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="22"/>
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
                 </config>
             </config>
         </config>
@@ -45,7 +61,23 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="17"/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                    <entry key="IntCell" type="xint" value="17"/>
+=======
+                    <entry key="IntCell" type="xint" value="22"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+                    <entry key="IntCell" type="xint" value="17"/>
+>>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="17"/>
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
                 </config>
             </config>
         </config>
@@ -70,7 +102,23 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
                 <config key="org.knime.core.data.def.IntCell">
+<<<<<<< HEAD
                     <entry key="IntCell" type="xint" value="20"/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                    <entry key="IntCell" type="xint" value="20"/>
+=======
+                    <entry key="IntCell" type="xint" value="16"/>
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+                    <entry key="IntCell" type="xint" value="20"/>
+>>>>>>> 588a316 (04-02-2025)
+=======
+                    <entry key="IntCell" type="xint" value="20"/>
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
                 </config>
             </config>
         </config>

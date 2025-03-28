@@ -66,6 +66,16 @@ java.lang.IllegalStateException: The profile is currently in use.
 	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
 	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
 	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
 
 !ENTRY org.eclipse.equinox.p2.core 4 0 2025-01-30 20:22:05.478
 !MESSAGE Exception during event notification
@@ -482,6 +492,16 @@ java.lang.IllegalArgumentException: Location must be absolute: ..
 	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
 	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
 	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
 !SESSION 2025-01-31 18:33:38.179 -----------------------------------------------
 eclipse.buildId=unknown
 java.version=17.0.5
@@ -514,3 +534,16 @@ java.lang.IllegalArgumentException: Location must be absolute: ..
 	at org.eclipse.equinox.internal.p2.core.ProvisioningEventBus.dispatchEvent(ProvisioningEventBus.java:1)
 	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
 	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:341)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> 588a316 (04-02-2025)
+=======
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main

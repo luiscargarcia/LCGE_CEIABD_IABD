@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+>>>>>>> 588a316 (04-02-2025)
+=======
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\comprar_alquilar.csv
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\pima-indians-diabetes.csv
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\usuarios_win_mac_lin.csv
@@ -6,3 +22,15 @@ C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\Weather.csv
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\bostonDataset.csv
 http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\SISTEMAS DE APRENDIZAJE AUTOMATICO\NOTEBOOKS DEL AULA\datasets\usuarios_win_mac_lin.csv
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+C:\Users\IADB\Documents\workspaceAI\CEIABD_MODULOS_IA\datasets\Weather.csv
+>>>>>>> 67236fe (30-01-2025 - 19:20)
+=======
+>>>>>>> 103bc95 (30-01-2025 21:40)
+=======
+>>>>>>> origin/main
+>>>>>>> luiscargarcia/main
